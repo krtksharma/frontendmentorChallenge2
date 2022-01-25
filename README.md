@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 <div>
-<img src="./Output/active1.jpg" width="300px" height="400px">
-<img src="./Output/active 2.jpg" width="300px" height="400px">
-<img src="./Output/active 3.jpg" width="300px" height="400px">
+<img src="./Output/active1.jpg" width="380px" height="350px">
+<img src="./Output/active 2.jpg" width="380px" height="350px">
+<img src="./Output/active 3.jpg" width="380px" height="350px">
 </div>
 <img src="./Output/desktop1.jpg" width="100%" height="100%">
-<img src="./Output/mobile.jpg" width="100%" height="100%">
+<img src="./Output/mobile .jpg" width="100%" height="100%">
 
 ### Links
 
